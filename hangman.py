@@ -1,7 +1,3 @@
-# CCSF CS 131A Spring 2017
-# Assignment 'hangman'
-# Tim Flaherty
-
 #!/usr/local/bin/python3
 import sys
 import re
